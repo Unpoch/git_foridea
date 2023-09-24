@@ -8,5 +8,7 @@ public class HelloGit {
         System.out.println("第二次修改");
         System.out.println("第三次修改");
         System.out.println("克隆后第一次添加");
+        System.out.println("dev分支添加");
+
     }
 }
